@@ -2,7 +2,7 @@
   "name": "Caixes Fibra Òptica",
   "short_name": "Caixes FO",
   "description": "Cercador de caixes d'empalme de la xarxa FO",
-  "start_url": "/",
+  "start_url": "/caixes-fo/",
   "display": "standalone",
   "background_color": "#0a1628",
   "theme_color": "#0a1628",
